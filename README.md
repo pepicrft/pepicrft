@@ -1,8 +1,12 @@
-<p align="center">
-  <samp>
-    <a href="https://pepicrft.me">me</a> .
-    <a href="https://ppinera.es/pages/about/">about</a> .
-    <a href="https://twitter.com/pepicrft">tweets</a> .
-    <a href="https://instagram.com/pepicrft">instagram</a>
-  </samp>
-</p>
+Hola 👋!
+
+For the past ten years, I have been a hands-on and **adaptable problem solver**, collaborating with start-ups and e-commerce platforms and building open-source solutions like [Tuist](https://github.com/tuist).
+My work is trusted by [Shopify](https://shopify.com/), [American Express](https://americanexpress.com/), [SoundCloud](https://soundcloud.com/), [Bloomberg](https://shopify.com/), [Stripe](https://stripe.com/), [Google](https://google.com/), [Monday](https://monday.com/), [Just Eat](https://justeat.com/), [Etsy](https://etsy.com/), and [Adidas](https://adidas.com/).
+
+I'm specialized in **empowering developers by designing and building tools, libraries, and platforms** that are [fun to work with](https://basecamp.com/gettingreal/10.2-optimize-for-happiness). I am also skilled in leading software projects and can manage, mentor, and hire software engineers.
+
+If your organization is going through scaling challenges, I can help you with them. [Let's chat](https://cal.com/pepicrft/30-min).
+
+- [Website](https://pepicrft.me)
+- [Twitter](https://twitter.com/pepicrft)
+- [Mastodon](https://mastodon.social/@pepicrft)
