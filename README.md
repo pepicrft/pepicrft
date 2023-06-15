@@ -10,3 +10,4 @@ If your organization is going through scaling challenges, I can help you with th
 - [Website](https://pepicrft.me)
 - [Twitter](https://twitter.com/pepicrft)
 - [Mastodon](https://mastodon.social/@pepicrft)
+- [LinkedIn](https://www.linkedin.com/in/pedro-piñera-buendia-9765a9125/)
