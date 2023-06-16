@@ -5,7 +5,15 @@ My work is trusted by [Shopify](https://shopify.com/), [American Express](https:
 
 I'm specialized in **empowering developers by designing and building tools, libraries, and platforms** that are [fun to work with](https://basecamp.com/gettingreal/10.2-optimize-for-happiness). I am also skilled in leading software projects and can manage, mentor, and hire software engineers.
 
-If your organization is going through scaling challenges, I can help you with them. [Let's chat](https://cal.com/pepicrft/30-min).
+### Consulting
+
+Ready to level up your organization? As a consultant, I'm here to tackle the following challenges and address your unique needs:
+
+- **Developer productivity auditing and improvements:** I'll assess your team's workflows and tools, identify areas for enhancement, and create a comprehensive plan to address any issues. I'll also implement safeguards to prevent regression.
+
+If any of these challenges resonate with your organization or if you simply want my expertise, [let's connect for a chat](https://cal.com/pepicrft/30-min). I'm here to help you unlock your full potential.
+
+### Social
 
 - [Website](https://pepicrft.me)
 - [Twitter](https://twitter.com/pepicrft)
