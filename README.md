@@ -10,6 +10,8 @@ I'm specialized in **empowering developers by designing and building tools, libr
 Ready to level up your organization? As a consultant, I'm here to tackle the following challenges and address your unique needs:
 
 - **Developer productivity auditing and improvements:** I'll assess your team's workflows and tools, identify areas for enhancement, and create a comprehensive plan to address any issues. I'll also implement safeguards to prevent regression.
+- **Adoption of [Tuist](https://tuist.io):** As the creator and maintainer of Tuist, I am your go-to expert for adopting the tool and ensuring your Xcode projects are optimized for cleanliness, performance, and ease of use. Let me guide you towards tidy, efficient, and highly manageable project structures that will elevate your development experience.
+
 
 If any of these challenges resonate with your organization or if you simply want my expertise, [let's connect for a chat](https://cal.com/pepicrft/30-min). I'm here to help you unlock your full potential.
 
