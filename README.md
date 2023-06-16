@@ -10,8 +10,9 @@ I'm specialized in **empowering developers by designing and building tools, libr
 Ready to level up your organization? As a consultant, I'm here to tackle the following challenges and address your unique needs:
 
 - **Developer productivity auditing and improvements:** I'll assess your team's workflows and tools, identify areas for enhancement, and create a comprehensive plan to address any issues. I'll also implement safeguards to prevent regression.
-- **Adoption of [Tuist](https://tuist.io):** As the creator and maintainer of Tuist, I am your go-to expert for adopting the tool and ensuring your Xcode projects are optimized for cleanliness, performance, and ease of use. Let me guide you towards tidy, efficient, and highly manageable project structures that will elevate your development experience.
-
+- **[Tuist](https://tuist.io) adoption:** As the creator and maintainer of Tuist, I am your go-to expert for adopting the tool and ensuring your Xcode projects are optimized for cleanliness, performance, and ease of use. Let me guide you towards tidy, efficient, and highly manageable project structures that will elevate your development experience.
+- **Developer platform experience:** While many developer platforms prioritize APIs and extensive capabilities, the developer experience is equally crucial but often overlooked. I specialize in crafting exceptional developer experiences, ensuring that every piece necessary to bring it to life is developed with precision. Let me help you create an outstanding developer journey that sets your platform apart.
+- **Code and project auditing and improvements:** Drawing from my experience working on large-scale projects, I can help you create a future-proof codebase that aligns with your present and future business requirements. Neglecting these crucial aspects often results in projects that are less enjoyable to work with. Let's collaborate to ensure your codebase is not only robust but also a pleasure to work on.
 
 If any of these challenges resonate with your organization or if you simply want my expertise, [let's connect for a chat](https://cal.com/pepicrft/30-min). I'm here to help you unlock your full potential.
 
