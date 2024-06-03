@@ -11,5 +11,5 @@ I'm specialized in **empowering developers by designing and building tools, libr
 
 - [Website](https://pepicrft.me)
 - [Twitter](https://twitter.com/pepicrft)
-- [Mastodon](https://mastodon.social/@pepicrft)
+- [Mastodon](https://masto.pepicrft.me/@pedro)
 - [LinkedIn](https://www.linkedin.com/in/pedro-piñera-buendia-9765a9125/)
