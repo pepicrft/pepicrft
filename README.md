@@ -7,14 +7,14 @@ My work is trusted by [Shopify](https://shopify.com/), [American Express](https:
 
 I'm specialized in **empowering developers by designing and building tools, libraries, and platforms** that are [fun to work with](https://basecamp.com/gettingreal/10.2-optimize-for-happiness). I am also skilled in leading software projects and can manage, mentor, and hire software engineers.
 
-### Pinned
+### Open Source Projects
 
-- [Tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) - A cheatsheet to learn approachable Swift concurrency
-- [Plasma](https://github.com/pepicrft/plasma) - A new experience for agentic-coding Android and Apple apps
-- [gesttalt](https://github.com/pepicrft/gesttalt) - A _stable_ static site generator
-- [liquidz](https://github.com/pepicrft/liquidz) - A Zig library for parsing Liquid templates
-- [Shimmer](https://github.com/pepicrft/Shimmer) - Auto-updates and licensing for macOS apps
+- 🏗️ [Tuist](https://github.com/tuist/tuist) ([Other](https://github.com/tuist/tuist/blob/main/LICENSE)) - A virtual platform team for Swift app devs who ship. Through an integrated platform that integrates with your toolchain and projects, it helps you stay focused and productive while building apps.
+- 📖 [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) ([MIT](https://github.com/pepicrft/fuckingapproachableswiftconcurrency/blob/main/LICENSE)) - A no-bullshit guide to understanding Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models.
+- 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
+- ✨ [gesttalt](https://github.com/pepicrft/gesttalt) ([MIT](https://github.com/pepicrft/gesttalt/blob/main/LICENSE)) - A static site generator with Shopify-like ecosystem stability featuring Mustache templates with frozen spec that guarantee no breaking changes.
+- 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
+- ✨ [Shimmer](https://github.com/pepicrft/Shimmer) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - Auto-updates and licensing for macOS apps. A modern alternative to Sparkle that combines automatic updates with built-in license management.
 
 ### Social
 
