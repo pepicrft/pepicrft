@@ -9,7 +9,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 
 ### Open Source Projects
 
-- 🏗️ [Tuist](https://github.com/tuist/tuist) ([Other](https://github.com/tuist/tuist/blob/main/LICENSE)) - A virtual platform team for Swift app devs who ship. Through an integrated platform that integrates with your toolchain and projects, it helps you stay focused and productive while building apps.
+- 🏗️ [Tuist](https://github.com/tuist/tuist) ([MIT & FCL-1.0-MIT](https://github.com/tuist/tuist/blob/main/LICENSE)) - A virtual platform team for Swift app devs who ship. Through an integrated platform that integrates with your toolchain and projects, it helps you stay focused and productive while building apps.
 - 📖 [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) ([MIT](https://github.com/pepicrft/fuckingapproachableswiftconcurrency/blob/main/LICENSE)) - A no-bullshit guide to understanding Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models.
 - 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
 - ✨ [gesttalt](https://github.com/pepicrft/gesttalt) ([MIT](https://github.com/pepicrft/gesttalt/blob/main/LICENSE)) - A static site generator with Shopify-like ecosystem stability featuring Mustache templates with frozen spec that guarantee no breaking changes.
