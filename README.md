@@ -7,6 +7,15 @@ My work is trusted by [Shopify](https://shopify.com/), [American Express](https:
 
 I'm specialized in **empowering developers by designing and building tools, libraries, and platforms** that are [fun to work with](https://basecamp.com/gettingreal/10.2-optimize-for-happiness). I am also skilled in leading software projects and can manage, mentor, and hire software engineers.
 
+### Pinned
+
+- [Tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
+- [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) - A cheatsheet to learn approachable Swift concurrency
+- [Plasma](https://github.com/pepicrft/plasma) - A new experience for agentic-coding Android and Apple apps
+- [gesttalt](https://github.com/pepicrft/gesttalt) - A _stable_ static site generator
+- [liquidz](https://github.com/pepicrft/liquidz) - A Zig library for parsing Liquid templates
+- [Shimmer](https://github.com/pepicrft/Shimmer) - Auto-updates and licensing for macOS apps
+
 ### Social
 
 - [Website](https://pepicrft.me)
