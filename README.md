@@ -18,6 +18,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - ✨ [gesttalt](https://github.com/pepicrft/gesttalt) ([MIT](https://github.com/pepicrft/gesttalt/blob/main/LICENSE)) - A static site generator with Shopify-like ecosystem stability featuring Mustache templates with frozen spec that guarantee no breaking changes.
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 - ✨ [Shimmer](https://github.com/pepicrft/Shimmer) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - Auto-updates and licensing for macOS apps. A modern alternative to Sparkle that combines automatic updates with built-in license management.
+- 💰 [OpenRevenue](https://github.com/pepicrft/openrevenue) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - An open source revenue backend for your mobile apps.
 
 ### Social
 
