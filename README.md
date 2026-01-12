@@ -22,6 +22,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 ### Clawdbot Plugins
 
 - 🛒 [clawd-plugin-grocery](https://github.com/pepicrft/clawd-plugin-grocery) ([MIT](https://github.com/pepicrft/clawd-plugin-grocery/blob/main/LICENSE)) - A Clawdbot plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
+- 📱 [clawd-plugin-social](https://github.com/pepicrft/clawd-plugin-social) ([MIT](https://github.com/pepicrft/clawd-plugin-social/blob/main/LICENSE)) - A Clawdbot plugin for social media scheduling with dstask. Like Buffer but open-source. Schedule posts across Twitter, LinkedIn, Mastodon, and Bluesky with campaign tracking and smart filtering.
 
 ### Social
 
