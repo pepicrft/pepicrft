@@ -19,6 +19,10 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
 - 💰 [OpenRevenue](https://github.com/pepicrft/openrevenue) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - An open source revenue backend for your mobile apps.
 
+### Clawdbot Plugins
+
+- 🛒 [clawd-plugin-grocery](https://github.com/pepicrft/clawd-plugin-grocery) ([MIT](https://github.com/pepicrft/clawd-plugin-grocery/blob/main/LICENSE)) - A Clawdbot plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
+
 ### Social
 
 - [Website](https://pepicrft.me)
