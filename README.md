@@ -17,8 +17,6 @@ I'm specialized in **empowering developers by designing and building tools, libr
 #### Work in Progress
 
 - 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
-- 💰 [OpenRevenue](https://github.com/pepicrft/openrevenue) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - An open source revenue backend for your mobile apps.
-- ✨ [Shimmer](https://github.com/pepicrft/Shimmer) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - Auto-updates and licensing for macOS apps. A modern alternative to Sparkle that combines automatic updates with built-in license management.
 
 ### Clawdbot Plugins
 
