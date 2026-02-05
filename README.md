@@ -18,12 +18,12 @@ I'm specialized in **empowering developers by designing and building tools, libr
 
 - 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
 
-### Clawdbot Plugins
+### OpenClaw Plugins
 
-- 🛒 [clawd-plugin-grocery](https://github.com/pepicrft/clawd-plugin-grocery) ([MIT](https://github.com/pepicrft/clawd-plugin-grocery/blob/main/LICENSE)) - A Clawdbot plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
-- 📱 [clawd-plugin-social](https://github.com/pepicrft/clawd-plugin-social) ([MIT](https://github.com/pepicrft/clawd-plugin-social/blob/main/LICENSE)) - A Clawdbot plugin for social media scheduling with dstask. Like Buffer but open-source. Schedule posts across Twitter, LinkedIn, Mastodon, and Bluesky with campaign tracking and smart filtering.
-- 🗃️ [clawd-plugin-vault](https://github.com/pepicrft/clawd-plugin-vault) ([MIT](https://github.com/pepicrft/clawd-plugin-vault/blob/main/LICENSE)) - A Clawdbot plugin that turns a local directory into an Obsidian-style knowledge vault with QMD search.
-- 🧵 [clawd-plugin-loom](https://github.com/pepicrft/clawd-plugin-loom) ([MIT](https://github.com/pepicrft/clawd-plugin-loom/blob/main/LICENSE)) - A Clawdbot plugin for learning graphs with spaced repetition, context captures, and QMD search.
+- 🛒 [openclaw-plugin-grocery](https://github.com/pepicrft/openclaw-plugin-grocery) ([MIT](https://github.com/pepicrft/openclaw-plugin-grocery/blob/main/LICENSE)) - An OpenClaw plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
+- 📱 [openclaw-plugin-social](https://github.com/pepicrft/openclaw-plugin-social) ([MIT](https://github.com/pepicrft/openclaw-plugin-social/blob/main/LICENSE)) - An OpenClaw plugin for social media scheduling with dstask. Like Buffer but open-source. Schedule posts across Twitter, LinkedIn, Mastodon, and Bluesky with campaign tracking and smart filtering.
+- 🗃️ [openclaw-plugin-vault](https://github.com/pepicrft/openclaw-plugin-vault) ([MIT](https://github.com/pepicrft/openclaw-plugin-vault/blob/main/LICENSE)) - An OpenClaw plugin that turns a local directory into an Obsidian-style knowledge vault with QMD search.
+- 🧵 [openclaw-plugin-loom](https://github.com/pepicrft/openclaw-plugin-loom) ([MIT](https://github.com/pepicrft/openclaw-plugin-loom/blob/main/LICENSE)) - An OpenClaw plugin for learning graphs with spaced repetition, context captures, and QMD search.
 
 ### Social
 
