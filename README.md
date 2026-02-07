@@ -14,10 +14,6 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - ✨ [gesttalt](https://github.com/pepicrft/gesttalt) ([MIT](https://github.com/pepicrft/gesttalt/blob/main/LICENSE)) - A static site generator with Shopify-like ecosystem stability featuring Mustache templates with frozen spec that guarantee no breaking changes.
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 
-#### Work in Progress
-
-- 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
-
 ### OpenClaw Plugins
 
 - 🛒 [openclaw-plugin-grocery](https://github.com/pepicrft/openclaw-plugin-grocery) ([MIT](https://github.com/pepicrft/openclaw-plugin-grocery/blob/main/LICENSE)) - An OpenClaw plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
