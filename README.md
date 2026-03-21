@@ -14,19 +14,6 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 - 🤖 [Helmsman](https://github.com/pepicrft/helmsman) ([MIT](https://github.com/pepicrft/helmsman/blob/main/LICENSE)) - An Elixir package for building agentic workflows.
 
-#### Work in Progress
-
-- 🤖 [Plasma](https://github.com/pepicrft/Plasma) ([MPL-2.0](https://github.com/pepicrft/Plasma/blob/main/LICENSE)) - A local-first, AI-powered tool for building iOS and Android apps that rethinks app development from scratch.
-- 💰 [OpenRevenue](https://github.com/pepicrft/openrevenue) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - An open source revenue backend for your mobile apps.
-- ✨ [Shimmer](https://github.com/pepicrft/Shimmer) ([MIT](https://github.com/pepicrft/Shimmer/blob/main/LICENSE)) - Auto-updates and licensing for macOS apps. A modern alternative to Sparkle that combines automatic updates with built-in license management.
-
-### OpenClaw Plugins
-
-- 🛒 [openclaw-plugin-grocery](https://github.com/pepicrft/openclaw-plugin-grocery) ([MIT](https://github.com/pepicrft/openclaw-plugin-grocery/blob/main/LICENSE)) - An OpenClaw plugin for managing grocery shopping lists with dstask. Add items, mark as bought, and keep your shopping organized.
-- 📱 [openclaw-plugin-social](https://github.com/pepicrft/openclaw-plugin-social) ([MIT](https://github.com/pepicrft/openclaw-plugin-social/blob/main/LICENSE)) - An OpenClaw plugin for social media scheduling with dstask. Like Buffer but open-source. Schedule posts across Twitter, LinkedIn, Mastodon, and Bluesky with campaign tracking and smart filtering.
-- 🗃️ [openclaw-plugin-vault](https://github.com/pepicrft/openclaw-plugin-vault) ([MIT](https://github.com/pepicrft/openclaw-plugin-vault/blob/main/LICENSE)) - An OpenClaw plugin that turns a local directory into an Obsidian-style knowledge vault with QMD search.
-- 🧵 [openclaw-plugin-loom](https://github.com/pepicrft/openclaw-plugin-loom) ([MIT](https://github.com/pepicrft/openclaw-plugin-loom/blob/main/LICENSE)) - An OpenClaw plugin for learning graphs with spaced repetition, context captures, and QMD search.
-
 ### Social
 
 - [Website](https://pepicrft.me)
