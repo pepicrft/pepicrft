@@ -13,6 +13,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 📖 [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) ([MIT](https://github.com/pepicrft/fuckingapproachableswiftconcurrency/blob/main/LICENSE)) - A no-bullshit guide to understanding Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models.
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 - 🤖 [Helmsman](https://github.com/pepicrft/helmsman) ([MIT](https://github.com/pepicrft/helmsman/blob/main/LICENSE)) - An Elixir package for building agentic workflows.
+- 🖼️ [Carta](https://github.com/pepicrft/carta) ([MIT](https://github.com/pepicrft/carta/blob/main/LICENSE)) - An Elixir package for generating images from HTML templates using a headless browser.
 
 ### Social
 
