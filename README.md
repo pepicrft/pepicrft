@@ -14,6 +14,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 - 🤖 [Helmsman](https://github.com/pepicrft/helmsman) ([MIT](https://github.com/pepicrft/helmsman/blob/main/LICENSE)) - An Elixir package for building agentic workflows.
 - 🖼️ [Carta](https://github.com/pepicrft/carta) ([MIT](https://github.com/pepicrft/carta/blob/main/LICENSE)) - An Elixir package for generating images from HTML templates using a headless browser.
+- 🌐 [Chrona](https://github.com/pepicrft/chrona) ([MIT](https://github.com/pepicrft/chrona/blob/main/LICENSE)) - An Elixir package for managing headless Chrome instances via the Chrome DevTools Protocol.
 
 ### Social
 
