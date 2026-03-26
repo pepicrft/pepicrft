@@ -16,7 +16,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🌐 [ConduktBrowseTool](https://github.com/pepicrft/condukt_browse_tool) ([MIT](https://github.com/pepicrft/condukt_browse_tool/blob/main/LICENSE)) - A Condukt tool that gives AI agents the ability to browse the web.
 - 🖼️ [Carta](https://github.com/pepicrft/carta) ([MIT](https://github.com/pepicrft/carta/blob/main/LICENSE)) - An Elixir package for generating images from HTML templates using a headless browser.
 - 🧭 [browse](https://github.com/pepicrft/browse) ([MIT](https://github.com/pepicrft/browse/blob/main/LICENSE)) - A transport-agnostic browser automation contract and pool for Elixir browser backends.
-- 🌐 [Chrona](https://github.com/pepicrft/chrona) ([MIT](https://github.com/pepicrft/chrona/blob/main/LICENSE)) - An Elixir package for managing headless Chrome instances via the Chrome DevTools Protocol.
+- 🌐 [BrowseChrome](https://github.com/pepicrft/browse_chrome) ([MIT](https://github.com/pepicrft/browse_chrome/blob/main/LICENSE)) - An Elixir package for managing headless Chrome instances via the Chrome DevTools Protocol.
 
 ### Social
 
