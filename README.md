@@ -18,6 +18,10 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🧭 [browse](https://github.com/pepicrft/browse) ([MIT](https://github.com/pepicrft/browse/blob/main/LICENSE)) - A transport-agnostic browser automation contract and pool for Elixir browser backends.
 - 🌐 [browse_chrome](https://github.com/pepicrft/browse_chrome) ([MIT](https://github.com/pepicrft/browse_chrome/blob/main/LICENSE)) - An Elixir package for managing headless Chrome instances via the Chrome DevTools Protocol.
 - 🌐 [browse_servo](https://github.com/pepicrft/browse_servo) ([MIT](https://github.com/pepicrft/browse_servo/blob/main/LICENSE)) - An Elixir package for managing headless Servo instances through the shared `browse` browser contract.
+- 🧪 [libsandbox](https://github.com/pepicrft/libsandbox) ([MIT](https://github.com/pepicrft/libsandbox/blob/main/LICENSE)) - A universal Rust library for interacting with cloud sandbox providers. One interface, many backends.
+- 🏖️ [terrarium](https://github.com/pepicrft/terrarium) ([MIT](https://github.com/pepicrft/terrarium/blob/main/LICENSE)) - An Elixir package for managing cloud sandbox environments with a unified provider interface.
+- 🌅 [terrarium_daytona](https://github.com/pepicrft/terrarium_daytona) ([MIT](https://github.com/pepicrft/terrarium_daytona/blob/main/LICENSE)) - A Daytona provider for Terrarium sandbox environments.
+- ⚡ [terrarium_exe](https://github.com/pepicrft/terrarium_exe) ([MIT](https://github.com/pepicrft/terrarium_exe/blob/main/LICENSE)) - An exe.dev provider for Terrarium sandbox environments.
 
 ### Social
 
