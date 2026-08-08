@@ -18,7 +18,6 @@ I'm specialized in **empowering developers by designing and building tools, libr
 - 🧭 [browse](https://github.com/pepicrft/browse) ([MIT](https://github.com/pepicrft/browse/blob/main/LICENSE)) - A transport-agnostic browser automation contract and pool for Elixir browser backends.
 - 🌐 [browse_chrome](https://github.com/pepicrft/browse_chrome) ([MIT](https://github.com/pepicrft/browse_chrome/blob/main/LICENSE)) - An Elixir package for managing headless Chrome instances via the Chrome DevTools Protocol.
 - 🌐 [browse_servo](https://github.com/pepicrft/browse_servo) ([MIT](https://github.com/pepicrft/browse_servo/blob/main/LICENSE)) - An Elixir package for managing headless Servo instances through the shared `browse` browser contract.
-- 🧪 [sandboxes](https://github.com/pepicrft/sandboxes) ([MIT](https://github.com/pepicrft/sandboxes/blob/main/LICENSE)) - A directory of cloud sandbox providers with public pricing and capability comparisons.
 
 ### Social
 
