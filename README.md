@@ -10,6 +10,7 @@ I'm specialized in **empowering developers by designing and building tools, libr
 ### Open Source Projects
 
 - 🏗️ [Tuist](https://github.com/tuist/tuist) ([MIT & FCL-1.0-MIT](https://github.com/tuist/tuist/blob/main/LICENSE)) - A virtual platform team for Swift app devs who ship. Through an integrated platform that integrates with your toolchain and projects, it helps you stay focused and productive while building apps.
+- ✍️ [Gesttalt](https://github.com/pepicrft/gesttalt) ([Massachusetts Institute of Technology License](https://github.com/pepicrft/gesttalt/blob/main/LICENSE.md)) - An open-source publishing platform designed for agents to run complete blogs while people keep ownership and approval.
 - 📖 [fuckingapproachableswiftconcurrency](https://github.com/pepicrft/fuckingapproachableswiftconcurrency) ([MIT](https://github.com/pepicrft/fuckingapproachableswiftconcurrency/blob/main/LICENSE)) - A no-bullshit guide to understanding Swift concurrency. Learn async/await, actors, Sendable, and MainActor with simple mental models.
 - 🔧 [liquidz](https://github.com/pepicrft/liquidz) ([MIT](https://github.com/pepicrft/liquidz/blob/main/LICENSE)) - A Zig library for parsing Liquid templates.
 - 🤖 [condukt](https://github.com/pepicrft/condukt) ([MIT](https://github.com/pepicrft/condukt/blob/main/LICENSE)) - An Elixir package for building agentic workflows.
